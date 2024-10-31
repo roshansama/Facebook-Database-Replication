@@ -1,2 +1,2 @@
 # Facebook-Database-Replication
-This project involves designing and implementing an SQL-based replica of a Facebook database, aimed at simulating essential functionalities within a social media platform.
+This project involves designing and implementing an SQL-based replica of a Facebook database, aimed at simulating essential functionalities within a social media platform. The replication captures core data structures and relationships to mimic user profiles, friend connections, posts, likes, comments, and messaging. This replica can serve as a foundation for analyzing data relationships, creating queries for reporting, and implementing further analytical features on a social network database.
